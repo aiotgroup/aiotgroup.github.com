@@ -7,9 +7,9 @@
 
 2. Stanford University, Andrew Ng/吴恩达 [CS229: Machine Learning](http://cs229.stanford.edu/)，[bilibli中文字幕视频](https://www.bilibili.com/video/BV1JE411w7Ub/?spm_id_from=333.788.recommend_more_video.0)
 
-3. 台湾大学，李宏毅 **机器学习**，[bilibli视频] (https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=169234578912587402&spm_id_from=333.337.0.0)
+3. 台湾大学，李宏毅 *机器学习*，[bilibli视频](https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=169234578912587402&spm_id_from=333.337.0.0)
 
-4. Andrew Ng、吴恩达， Coursera课程， **Machine Learning**， [bilibli中文字幕视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=9667206633028514293&spm_id_from=333.337.0.0)
+4. Andrew Ng、吴恩达， Coursera课程， *Machine Learning*， [bilibli中文字幕视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=9667206633028514293&spm_id_from=333.337.0.0)
 
 
 ## 群组文档
