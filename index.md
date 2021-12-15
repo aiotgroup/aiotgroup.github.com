@@ -21,7 +21,7 @@
 ## 校园生活
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
-2 校外访问校园网：[webvpn.xjtu.edu.cn](webvpn.xjtu.edu.cn)
+2. 校外访问校园网：[webvpn.xjtu.edu.cn](webvpn.xjtu.edu.cn)
 
 
 ## Sponsors and Partners
