@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: [AIoT Group / XJTU]
 description: to do good work
-logo: fig/logo_starry.jpg
+logo: fig/iot.jpg
 show_downloads: false
 google_analytics:
 plugins:
