@@ -2,14 +2,12 @@
 1. Ian Goodfellow等，《深度学习》/ *Deep Learning*
 2. 李航，《统计机器学习》
 
-I received the PH.D. degree in Computer Science and Technology, [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University), advised by [Prof. Jinsong Han](https://scholar.google.com/citations?user=BST50KwAAAAJ&hl=en), where I spent five and half years for B.E. and M.E on Computer Science, advised by [Prof. Yinliang Zhao](https://scholar.google.com/citations?user=o-DXXd4AAAAJ&hl=en).  Formely I was a visiting student of Human Sensing Lab and DeLight Lab, The Robostics Institute, Carnegie Mellon University, advised by [Dr. Dong Huang](https://www.donghuang-research.com/) from Oct. 2017 to Oct. 2019.  
-My research interest is building novel sensory systems for human/event/things sensing.  
 
-### <font color="#dd0000" >I am looking for a Postdoc position. If at US, please offer me visa of H1b. </font><br /> [CV/Resume](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
-
+<!-- ### <font color="#dd0000" >I am looking for a Postdoc position. If at US, please offer me visa of H1b. </font><br /> [CV/Resume](https://github.com/geekfeiw/geekfeiw.github.io/blob/master/CV/CV_FEIWANG.pdf) 
+ -->
 ## 推荐课程
-
-One 5th-authored paper on Salient Object Detection accepted to be published in [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), Sep. 27, 2020.    
+1. Stanford University [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)[bilibli中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5)
+<!-- One 5th-authored paper on Salient Object Detection accepted to be published in [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), Sep. 27, 2020.    
 
 One 1st-authored paper accepted by [CWSN 2020](https://cwsn2020.aconf.cn/), Aug. 15, 2020.  
   
@@ -25,7 +23,7 @@ We received the <font color="#dd0000" >BEST PAPER AWARD</font>  of IEEE GLOBECOM
 
 1 paper accepted to be published in [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), June 13, 2019.  
 
-1 paper accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019.
+1 paper accepted to be published in [IEEE IoTJ](http://ieee-iotj.org/), May 1, 2019. -->
 
 ## Publications
 
