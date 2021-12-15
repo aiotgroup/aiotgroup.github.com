@@ -17,12 +17,10 @@
 
 2. 科技文写作字典：查看**Slack, paper-digest**的频道公告，添加词句在频道内@MengDie
 
-
 ## 校园生活
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
 2. 校外访问校园网：[webvpn](https://webvpn.xjtu.edu.cn/)
-
 
 ## Sponsors and Partners
 
