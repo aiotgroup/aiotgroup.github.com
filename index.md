@@ -11,6 +11,8 @@
 
 4. Andrew Ng/吴恩达，Coursera课程，**Machine Learning** / [bilibili中文字幕视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=9667206633028514293&spm_id_from=333.337.0.0)
 
+5. UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
+
 
 ## 群组文档
 1. 组会论文阅读：查看**Slack, paper-digest**的频道公告
