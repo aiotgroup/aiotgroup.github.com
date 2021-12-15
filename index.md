@@ -15,8 +15,9 @@
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
 
-## Sponsors
+## Sponsors and Partners
 
 <img src="./sponsors/csc.png" width = "35%" height = "35%" alt="nsfc" /> 
+<img src="./sponsors/huawei.png" width = "35%" height = "35%" alt="huawei" /> 
 
 ![cmu](fig/cmu.jpg)
