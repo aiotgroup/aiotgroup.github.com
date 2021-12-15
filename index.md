@@ -12,7 +12,7 @@
 
 
 ## 校园生活
-1. 正版软件下载：[西安交通大学 网络信息中心](http://nic.xjtu.edu.cn/)
+1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
 
 ## Sponsors
