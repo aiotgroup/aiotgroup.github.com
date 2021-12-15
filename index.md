@@ -1,4 +1,7 @@
 ## 推荐书籍
+1. Ian Goodfellow等，《深度学习》/ *Deep Learning*
+2. 李航，《统计机器学习》
+
 I received the PH.D. degree in Computer Science and Technology, [Xi'an Jiaotong University](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University), advised by [Prof. Jinsong Han](https://scholar.google.com/citations?user=BST50KwAAAAJ&hl=en), where I spent five and half years for B.E. and M.E on Computer Science, advised by [Prof. Yinliang Zhao](https://scholar.google.com/citations?user=o-DXXd4AAAAJ&hl=en).  Formely I was a visiting student of Human Sensing Lab and DeLight Lab, The Robostics Institute, Carnegie Mellon University, advised by [Dr. Dong Huang](https://www.donghuang-research.com/) from Oct. 2017 to Oct. 2019.  
 My research interest is building novel sensory systems for human/event/things sensing.  
 
