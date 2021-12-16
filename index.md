@@ -79,10 +79,19 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 25. **Acoustic FMCW** Sangki Yun *et.al.*, [Strata: Fine-Grained Acoustic-based Device-Free Tracking](https://dl.acm.org/doi/abs/10.1145/3081333.3081356)
 26. **Acoustic** Anran Wang *et.al.*, [Contactless Infant Monitoring using White Noise](https://dl.acm.org/doi/10.1145/3300061.3345453), ACM MobiCom 2019
 
-23. **FMCW mmWave** Chengkun Jiang *et.al.*, [mmVib: Micrometer-Level Vibration Measurement with mmWave Radar](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf), ACM MobiCOM 2020
+27. **FMCW mmWave** Chengkun Jiang *et.al.*, [mmVib: Micrometer-Level Vibration Measurement with mmWave Radar](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf), ACM MobiCOM 2020
 
-27 **Smart Phones**
-28 **Smartwatches** 
+28. **RFID**
+
+29. **LoRa** Fusang Zhang *et.al.*, [Exploring LoRa for Long-range Through-wall Sensing](https://dl.acm.org/doi/abs/10.1145/3397326), ACM IMWUT 2020
+30. **LoRa** Binbin Xie and Jie Xiong, [Combating interference for long range LoRa sensing](https://dl.acm.org/doi/10.1145/3384419.3430731), ACM Sensys 2020 
+31. **LoRa** Binbin Xie *et.al.*, [Pushing the Limits of Long Range Wireless Sensing with LoRa](https://dl.acm.org/doi/abs/10.1145/3478080), ACM IMWUT 2021
+
+32. **Visual Light** 
+
+33 **Smart Phones**
+
+34 **Smartwatches** 
 
 
 ## 群组文档
