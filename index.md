@@ -36,9 +36,14 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 8. Object Detection, **SSD:** Wei Liu *et.al.*, [Ssd: Single shot multibox detector](https://www.cs.unc.edu/~wliu/papers/ssd.pdf)  / [pytorch](https://github.com/yatengLG/SSD-Pytorch)
 9. Object Detection, **YOLO:** Joseph Redmon *et.al.*, [You only look once: Unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html) / [pytorch yolov5](https://github.com/ultralytics/yolov5)
 10. Object Detection, **CenterNet:** Xingyi Zhou *et.al.*, [Objects as points](https://arxiv.org/abs/1904.07850) / [github](https://github.com/xingyizhou/CenterNet)
-11. Pose Estimation, **Openpose:** Zhe Cao *et.al.*, [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://ieeexplore.ieee.org/document/8765346) / [project pages](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/) [github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+11. Pose Estimation, **Openpose:** Zhe Cao *et.al.*, [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://ieeexplore.ieee.org/document/8765346) / [project pages](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/) / [github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 12. Pose Estimation, **AlphaPose:** Hao-Shu Fang *et.al.*, [Regional Multi-person Pose Estimation](https://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html) / [github](https://github.com/MVIG-SJTU/AlphaPose)
-
+13. GANs, **GAN:** Ian Goodfellow *et.al.*, [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) 
+14. GANs, **Pixel2Pixel:** Phillip Isola *et.al.*, [Unpaired Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) / [project pages](https://phillipi.github.io/pix2pix/)
+15. GANs, **CycleGan:** Junyan Zhu *et.al.*, [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/) / [project pages](https://junyanz.github.io/CycleGAN/)
+16. GANs, **Wasserstein GAN:** Martin Arjovsky *et.al.*, [Wasserstein GAN](https://arxiv.org/abs/1701.07875) / [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
+17. Adversarial examples, Ian Goodfellow *et.al.*, [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+18. Adversarial examples, Alexey Kurakin *et.al.*, [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533v4)
 
 #### Generative Adversarial Networks
 
