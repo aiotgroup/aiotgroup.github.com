@@ -31,8 +31,7 @@
 ## Sponsors and Partners
 
 <img src="./sponsors/nsfc.jpeg" width = "32%" height = "32%" alt="nsfc" /> <img src="./sponsors/csc.png" width = "35%" height = "35%" alt="csc" /> 
-<img src="./sponsors/cpsf.png" width = "50%" height = "50%" alt="cpsf" /> 
-<img src="./sponsors/shaanxikjt.png" width = "50%" height = "50%" alt="shaanxikjt" /> 
+<img src="./sponsors/cpsf.png" width = "50%" height = "50%" alt="cpsf" /> <img src="./sponsors/shaanxikjt.png" width = "50%" height = "50%" alt="shaanxikjt" /> 
 <img src="./sponsors/huawei.png" width = "40%" height = "40%" alt="huawei" /> 
 
 ![cmu](fig/cmu.jpg)
