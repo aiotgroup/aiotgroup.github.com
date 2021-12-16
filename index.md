@@ -44,6 +44,10 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 16. GANs, **Wasserstein GAN:** Martin Arjovsky *et.al.*, [Wasserstein GAN](https://arxiv.org/abs/1701.07875) / [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
 17. Adversarial examples, Ian Goodfellow *et.al.*, [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 18. Adversarial examples, Alexey Kurakin *et.al.*, [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533v4)
+19. Vision Transformer, **ViT:** Alexey Dosovitskiy *et.al.*, [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) / [github](https://github.com/google-research/vision_transformer)
+20. Vision Transformer, **Swin Transformer:** Ze Liu *et.al.*, [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) / [github](https://github.com/microsoft/Swin-Transformer)
+21. Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+
 
 #### Generative Adversarial Networks
 
