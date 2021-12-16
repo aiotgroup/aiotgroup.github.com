@@ -48,9 +48,41 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 20. Vision Transformer, **Swin Transformer:** Ze Liu *et.al.*, [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) / [github](https://github.com/microsoft/Swin-Transformer)
 21. Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 
+### 无线感知
+1. **Wi-Fi**, Zheng Yang *et.al.*, [From RSSI to CSI: Indoor localization via channel response](https://dl.acm.org/doi/10.1145/2543581.2543592), ACM Computing Surveys 2013
+2. **Wi-Fi**, Fadel Adib and Dina Katabi [See through walls with WiFi!](https://dl.acm.org/doi/abs/10.1145/2486001.2486039), ACM SIGCOMM 2013
+3. **Wi-Fi**, Kamran Ali *et.al.*, [Keystroke Recognition Using WiFi Signals](https://sigmobile.org/mobicom/2015/papers/p90-aliA.pdf), ACM Mobicom 2015
+4. **Wi-Fi**, Kun Qian *et.al.*, [Inferring Motion Direction using Commodity Wi-Fi for Interactive Exergames](https://kunqian.info/publication/chi17widance/), ACM CHI 2017
+5. **Wi-Fi**, Hao Wang *et.al.*, [Human Respiration Detection with Commodity WiFi Devices: Do User Location and Body Orientation Matter?](http://www-public.imtbs-tsp.eu/~zhang_da/pub/Daqing%202016%20UbiComp%20respiration.pdf), ACM UBICOMP 2016
+6. **Wi-Fi**, Manikanta Kotaru *et.al.*, [SpotFi: Decimeter Level Localization Using WiFi](https://web.stanford.edu/~skatti/pubs/sigcomm15-spotfi.pdf), ACM SIGCOMM 2015
+7. **Wi-Fi**, Manikanta Kotaru and Sachin Katti [Position Tracking for Virtual Reality Using Commodity WiFi](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kotaru_Position_Tracking_for_CVPR_2017_paper.pdf), IEEE/CVF CVPR 2017 
+8. **Wi-Fi**, Xiang Li *et.al.*, [Dynamic-MUSIC: accurate device-free indoor localization](https://dl.acm.org/doi/abs/10.1145/2971648.2971665), ACM UBICOMP 2016
+9. **Wi-Fi**, Kun Qian *et.al.*, [Widar2.0: Passive Human Tracking with a Single Wi-Fi Link](https://cswu.me/papers/mobisys18_widar2.0_paper.pdf), ACM Mobisys 2018
+10. **Wi-Fi**, Fei Wang *et.al.*, [Person-in-WiFi: Fine-grained Person Perception using WiFi](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.pdf), IEEE/CVF ICCV 2019
+11. **Wi-Fi**, Yue Zheng *et.al.*, [Zero-Effort Cross-Domain Gesture Recognition With Wi-Fi](http://tns.thss.tsinghua.edu.cn/widar3.0/data/MobiSys19_Widar3.0_paper.pdf), ACM Mobisys 2018/ TPAMI 2021
+12. **Wi-Fi**, Donny Huang *et.al.*, [Feasibility and Limits of Wi-Fi Imaging](https://homes.cs.washington.edu/~gshyam/Papers/wision.pdf), ACM Sensys 2014
+13.  **Wi-Fi**, Philipp M Holl and Friedemann Reinhard, [Holography of wi-fi radiation](https://pubmed.ncbi.nlm.nih.gov/28524674/), Physical Review Letter 2017
 
-#### Generative Adversarial Networks
+13. **FMCW Radar / cmWave** Fadel Adib *et.al.*, [3D Tracking via Body Radio Reflections](http://witrack.csail.mit.edu/witrack-paper.pdf), Usenix NSDI 2014 / [project pages](http://witrack.csail.mit.edu/)
+14. **FMCW Radar / cmWave** Fadel Adib *et.al.*, [Multi-Person Localization via RF Body Reflections](http://witrack.csail.mit.edu/witrack2-paper.pdf), Usenix NSDI 2015
+15. **FMCW Radar / cmWave** Fadel Adib *et.al.*, [Vital-Radio: Smart Homes that Monitor Breathing and Heart Rate](http://witrack.csail.mit.edu/vitalradio/content/vitalradio-paper.pdf), ACM CHI 2015 / [project pages](http://witrack.csail.mit.edu/vitalradio/)
+16. **FMCW Radar / cmWave** Fadel Adib *et.al.*, [RF-Capture: Capturing the Human Figure Through a Wall](http://rfcapture.csail.mit.edu/rfcapture-paper.pdf), SIGGRAPH Asia 2015 / [project pages](http://rfcapture.csail.mit.edu/)
+17. **FMCW Radar / cmWave** Mingmin Zhao *et.al.*, [Emotion Recognition using Wireless Signals](http://eqradio.csail.mit.edu/), ACM Mobicom 2016
+18. **FMCW Radar / cmWave** Mingmin Zhao *et.al.*, [Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/), IEEE/CVF CVPR 2018
+19. **FMCW Radar / cmWave** Mingmin Zhao *et.al.*, [RF-Based 3D Skeletons](http://rfpose3d.csail.mit.edu/), ACM SIGCOMM 2019
 
+20. **Acoustic FMCW** Rajalakshmi Nandakumar *et.al.*, [Contactless Sleep Apnea Detection on Smartphones](https://ucilnica.fri.uni-lj.si/pluginfile.php/8000/mod_page/content/15/NGW15.pdf), ACM Mobisys 2015
+21. **Acoustic FMCW** Rajalakshmi Nandakumar *et.al.*, [Opioid overdose detection using smartphones](https://www.science.org/doi/10.1126/scitranslmed.aau8914), SCIENCE TRANSLATIONAL MEDICINE 2019
+22. **Acoustic FMCW** [Using smart speakers to contactlessly monitor heart rhythms](https://www.nature.com/articles/s42003-021-01824-9#:~:text=%20Using%20smart%20speakers%20to%20contactlessly%20monitor%20heart,has%20focused%20on%20contactless%20monitoring%20of...%20More%20), Nature communications biology 2021
+23. **Acoustic FMCW** Wenguang Mao *et.al.*, [CAT: high-precision acoustic motion tracking](https://dl.acm.org/doi/abs/10.1145/2973750.2973755), ACM Mobicom 2016
+24. **Acoustic FMCW** Wenguang Mao *et.al.*, [AIM: Acoustic Imaging on a Mobile](https://dl.acm.org/doi/abs/10.1145/3210240.3210325), ACM MobiSys 2018
+25. **Acoustic FMCW** Sangki Yun *et.al.*, [Strata: Fine-Grained Acoustic-based Device-Free Tracking](https://dl.acm.org/doi/abs/10.1145/3081333.3081356)
+26. **Acoustic** Anran Wang *et.al.*, [Contactless Infant Monitoring using White Noise](https://dl.acm.org/doi/10.1145/3300061.3345453), ACM MobiCom 2019
+
+23. **FMCW mmWave** Chengkun Jiang *et.al.*, [mmVib: Micrometer-Level Vibration Measurement with mmWave Radar](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf), ACM MobiCOM 2020
+
+27 **Smart Phones**
+28 **Smartwatches** 
 
 
 ## 群组文档
