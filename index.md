@@ -22,7 +22,7 @@
 ## 校园生活
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
-2. 校外访问校园网：[webvpn](https://webvpn.xjtu.edu.cn/)
+2. 校外访问校园网：[校园vpn](http://vpn.xjtu.edu.cn/)
 
 3. 校园卡充值：可在**支付宝-校园一卡通**在线充值,延迟几分钟到账
 
