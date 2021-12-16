@@ -16,10 +16,23 @@
 ## 推荐UP主
 1. [跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家
 
+## 掌握知识
+1. 傅里叶变化的
+
+## 必读论文
+### 计算机视觉
+1. **ResNet:** Kaiming He *et.al.*, [Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) [pytorch code](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)
+
+2. **U-Net:** Olaf Ronneberger *et.al.*, [U-Net: Convolutional Networks for Biomedical
+Image Segmentation](https://arxiv.org/abs/1505.04597) [pytorch code](https://amaarora.github.io/2020/09/13/unet.html)
+
+
 ## 群组文档
 1. 每周论文阅读：查看**Slack, paper-digest**的频道公告
 
 2. 科技文写作字典：查看**Slack, paper-digest**的频道公告，添加词句在频道内@MengDie
+
+3. 资产材料领用记录文档：**查看Slcak, 全体/All**的频道公告，资产领用后@MengDie即刻更新
 
 ## 校园生活
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
