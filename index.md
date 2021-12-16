@@ -31,7 +31,7 @@
 ## Sponsors and Partners
 
 <img src="./sponsors/nsfc.jpeg" width = "35%" height = "35%" alt="nsfc" /> 
-<img src="./sponsors/csc.png" width = "35%" height = "35%" alt="nsfc" /> 
+<img src="./sponsors/csc.png" width = "35%" height = "35%" alt="csc" /> 
 <img src="./sponsors/cpsf.png" width = "35%" height = "35%" alt="cpsf" /> 
 <img src="./sponsors/huawei.png" width = "35%" height = "35%" alt="huawei" /> 
 
