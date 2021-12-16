@@ -16,23 +16,29 @@
 5. UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
 
 ## 推荐UP主
-1. [跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家
+1. [跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家，讲课和读论文
 
 ## 掌握知识
 1. 傅里叶变化的
 
 ## 必读论文
 ### 计算机视觉
-#### Image Classification
-1. **ResNet:** Kaiming He *et.al.*, [Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) / [pytorch code](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)
+1. Image Classification, **AlexNet:** Alex Krizhevsky *et.al.*, [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) / [pytorch](https://github.com/pytorch/vision/blob/main/torchvision/models/alexnet.py)
+1. Image Classification, **VGG:** Karen Simonyan and Andrew Zisserman [Very deep convolutional networks for large-scale image recognition
+](https://arxiv.org/abs/1409.1556) / [pytorch](https://github.com/pytorch/vision/blob/main/torchvision/models/vgg.py)
+2. Image Classification, **ResNet:** Kaiming He *et.al.*, [Deep residual learning for image recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) / [pytorch](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)
+3. Semantic Segmentation, **FCN:** Jonathan Long *et.al.*, [Fully Convolutional Networks for Semantic Segmentation](https://openaccess.thecvf.com/content_cvpr_2015/html/Long_Fully_Convolutional_Networks_2015_CVPR_paper.html) / [pytorch](https://github.com/pochih/FCN-pytorch)
+4. Semantic Segmentation, **U-Net:** Olaf Ronneberger *et.al.*, [U-Net: Convolutional Networks for Biomedical
+Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaarora.github.io/2020/09/13/unet.html)
+5. Instance Segmentation, **Mask R-CNN** Kaiming He *et.al.*, [Mask R-CNN](https://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html) / [github](https://github.com/multimodallearning/pytorch-mask-rcnn)
+6. Instance Segmentation, **Yolact** Daniel Bolya *et.al.*, [YOLACT: Real-Time Instance Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html) / [github](https://github.com/dbolya/yolact)
+7. Object Detection, **Faster R-CNN:** Shaoqing Ren *et.al.*, [Faster r-cnn: Towards real-time object detection with region proposal networks](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf) / [pytorch](https://github.com/facebookresearch/maskrcnn-benchmark)
+8. Object Detection, **SSD:** Wei Liu *et.al.*, [Ssd: Single shot multibox detector](https://www.cs.unc.edu/~wliu/papers/ssd.pdf)  / [pytorch](https://github.com/yatengLG/SSD-Pytorch)
+9. Object Detection, **YOLO:** Joseph Redmon *et.al.*, [You only look once: Unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html) / [pytorch yolov5](https://github.com/ultralytics/yolov5)
+10. Object Detection, **CenterNet:** Xingyi Zhou *et.al.*, [Objects as points](https://arxiv.org/abs/1904.07850) / [github](https://github.com/xingyizhou/CenterNet)
+11. Pose Estimation, **Openpose:** Zhe Cao *et.al.*, [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://ieeexplore.ieee.org/document/8765346) / [project pages](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/) [github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+12. Pose Estimation, **AlphaPose:** Hao-Shu Fang *et.al.*, [Regional Multi-person Pose Estimation](https://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html) / [github](https://github.com/MVIG-SJTU/AlphaPose)
 
-#### Senmatic Segmentation
-2. **U-Net:** Olaf Ronneberger *et.al.*, [U-Net: Convolutional Networks for Biomedical
-Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch code](https://amaarora.github.io/2020/09/13/unet.html)
-
-#### Object Detection
-
-#### Pose Estimation
 
 #### Generative Adversarial Networks
 
@@ -43,7 +49,7 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch code](https://a
 
 2. 科技文写作字典：查看**Slack, paper-digest**的频道公告，添加词句在频道内@MengDie
 
-3. 设备/材料/图书-领用记录文档：**查看Slcak, 全体/All**的频道公告，资产领用后@MengDie即刻更新
+3. 设备/材料/图书-领用记录文档：查看**Slcak, 全体/All**的频道公告，领用后@MengDie即刻更新
 
 ## 校园生活
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
