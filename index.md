@@ -15,7 +15,7 @@
 
 
 ## 群组文档
-1. 组会论文阅读：查看**Slack, paper-digest**的频道公告
+1. 每周论文阅读：查看**Slack, paper-digest**的频道公告
 
 2. 科技文写作字典：查看**Slack, paper-digest**的频道公告，添加词句在频道内@MengDie
 
@@ -23,6 +23,8 @@
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
 2. 校外访问校园网：[webvpn](https://webvpn.xjtu.edu.cn/)
+
+3. 校园卡充值：可在**支付宝-校园一卡通**在线充值,延迟几分钟到账
 
 ## Sponsors and Partners
 
