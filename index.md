@@ -8,9 +8,19 @@
 3. 设备/材料/图书-领用记录文档：查看**Slcak, 全体/All**的频道公告，领用后@MengDie即刻更新
 
 ## 推荐书籍
-1. Ian Goodfellow 等，《深度学习》/ *Deep Learning*
-2. 李航，《统计学习方法》
-3. 杨峥 等 《位置计算：无线网络定位与可定位性》
+1. 李航 《统计学习方法》
+2. 周志华 《机器学习》
+3. Ian Goodfellow 等 《深度学习》/ *Deep Learning*
+4. 杨峥 等 《位置计算：无线网络定位与可定位性》
+8. Andrea Goldsmith, *Wireless Communication* / [pdf](https://swedishcr.weebly.com/uploads/1/5/2/2/15223984/wireless_communication_by_andrea_goldsmith.pdf)
+7. James F.Kurose and Keith W.Ross 《计算机网络 自顶向下方法》 / *Computer Networking - A Top-Down Approach*
+8. 6. John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
+9. Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
+10. Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
+11. Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
+12. Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
+13. Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+14. Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
 
 ## 推荐课程
 1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5)
