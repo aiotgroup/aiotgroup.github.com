@@ -39,7 +39,6 @@
 2. [同济子豪兄](https://space.bilibili.com/1900783/?spm_id_from=333.999.0.0) / 同济大学研究生，精读AI经典论文
 3. [deep_thoughts](https://space.bilibili.com/373596439/?spm_id_from=333.999.0.0) / 人工智能与应用方向，直播讲解PyTorch源码
 4. [Bubbliiiing](https://space.bilibili.com/472467171/?spm_id_from=333.999.0.0) / 主要讲解深度学习中各种模型平台的搭建
-5. [语言观止](https://space.bilibili.com/477286107/?spm_id_from=333.999.0.0) / 英语学习，自创背词法，有利于英语的学习
 
 ## 掌握知识
 1. 傅里叶变化的
