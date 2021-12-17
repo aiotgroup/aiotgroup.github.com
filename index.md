@@ -75,14 +75,16 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 14. GANs, **Pixel2Pixel:** Phillip Isola *et.al.*, [Unpaired Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) / [project pages](https://phillipi.github.io/pix2pix/)
 15. GANs, **CycleGan:** Junyan Zhu *et.al.*, [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/) / [project pages](https://junyanz.github.io/CycleGAN/)
 16. GANs, **Wasserstein GAN:** Martin Arjovsky *et.al.*, [Wasserstein GAN](https://arxiv.org/abs/1701.07875) / [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
-17. Adversarial examples, Ian Goodfellow *et.al.*, [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
-18. Adversarial examples, Alexey Kurakin *et.al.*, [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533v4)
-19. NLP, **Attention:**, Ashish Vaswani *et.al.*, [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-19. Vision Transformer, **ViT:** Alexey Dosovitskiy *et.al.*, [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) / [github](https://github.com/google-research/vision_transformer)
-20. Vision Transformer, **Swin Transformer:** Ze Liu *et.al.*, [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) / [github](https://github.com/microsoft/Swin-Transformer)
-21. Vision Transformer, **DETR:** Nicolas Carion *et.al.*, [DE⫶TR: End-to-End Object Detection with Transformers](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) / [github](https://github.com/facebookresearch/detr)
-22. Unsupervised Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
-23. Unsupervised, **MoCo:** Kaiming He *et.al.*, [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) / [github](https://github.com/facebookresearch/moco)
+17. GANs, **SinGAN**, Tamar Rott Shaham *et.al.*, [SinGAN：Learning a Generative Model from a Single Natural Image](https://openaccess.thecvf.com/content_ICCV_2019/html/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.html)
+18. GANs, **StarGAN**, Yunjey Choi *et.al.*, [Stargan: Unified generative adversarial networks for multi-domain image-to-image translation](https://openaccess.thecvf.com/content_cvpr_2018/html/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.html)
+19. Adversarial examples, Ian Goodfellow *et.al.*, [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+20. Adversarial examples, Alexey Kurakin *et.al.*, [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533v4)
+21. NLP, **Attention:**, Ashish Vaswani *et.al.*, [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+22. Vision Transformer, **ViT:** Alexey Dosovitskiy *et.al.*, [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) / [github](https://github.com/google-research/vision_transformer)
+23. Vision Transformer, **Swin Transformer:** Ze Liu *et.al.*, [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) / [github](https://github.com/microsoft/Swin-Transformer)
+24. Vision Transformer, **DETR:** Nicolas Carion *et.al.*, [DE⫶TR: End-to-End Object Detection with Transformers](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) / [github](https://github.com/facebookresearch/detr)
+25. Unsupervised Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+26. Unsupervised, **MoCo:** Kaiming He *et.al.*, [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) / [github](https://github.com/facebookresearch/moco)
 
 ### 无线感知
 1. **Wi-Fi**, Zheng Yang *et.al.*, [From RSSI to CSI: Indoor localization via channel response](https://dl.acm.org/doi/10.1145/2543581.2543592), ACM Computing Surveys 2013
@@ -117,6 +119,7 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 24. **Acoustic FMCW** Wenguang Mao *et.al.*, [AIM: Acoustic Imaging on a Mobile](https://dl.acm.org/doi/abs/10.1145/3210240.3210325), ACM MobiSys 2018
 25. **Acoustic FMCW** Sangki Yun *et.al.*, [Strata: Fine-Grained Acoustic-based Device-Free Tracking](https://dl.acm.org/doi/abs/10.1145/3081333.3081356)
 26. **Acoustic** Anran Wang *et.al.*, [Contactless Infant Monitoring using White Noise](https://dl.acm.org/doi/10.1145/3300061.3345453), ACM MobiCom 2019
+27. **Acoustic** David B. Lindell *et.al.*, [Acoustic Non-Line-Of-Sight Imaging](https://openaccess.thecvf.com/content_CVPR_2019/html/Lindell_Acoustic_Non-Line-Of-Sight_Imaging_CVPR_2019_paper.html), IEEE/CVF 2019
 
 37. **RFID**, Jue Wang *et.al.*, [RF-Compass: Robot Object Manipulation Using RFIDs](https://courses.engr.illinois.edu/ece598hh/sp2018/papers/rfcompass.pdf)，ACM Mobicom 2013
 38. **RFID**, Lei Yang *et.al.*, [Tagoram: Real-Time Tracking of Mobile RFID Tags to High Precision Using COTS Devices](http://staff.ustc.edu.cn/~xiangyangli/paper/Conf/tagoram-mobicom.pdf), ACM Mobicom 2014
@@ -127,13 +130,25 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 43. **RFID**, Unsoo Ha *et.al.*, [Food and Liquid Sensing in Practical Environments using RFIDs](https://www.usenix.org/conference/nsdi20/presentation/ha), Usenix NSDI 2020
 44. **RFID**, Jinsong Han *et.al.*, [GenePrint: Generic and Accurate Physical-Layer Identification for UHF RFID Tags](https://users.soe.ucsc.edu/~qian/papers/Geneprint_ToN.pdf), ICNP 2013/ IEEE ToN 2015
 
-33. **Visual Light** 
-33. **Smart Phones**
-34. **Smartwatches** 
+34. **Smartwatches, IMU**, He Wang *et.al.*, [MoLe: Motion Leaks through Smartwatch Sensors](https://www.sigmobile.org/mobicom/2015/papers/p155-wangA.pdf), ACM Mobicom 2015
+35. **Smartwatches, IMU**, Sheng Shen *et.al.*, [I am a Smartwatch and I can Track my User's Arm]([I am a Smartwatch and I can Track my User's Arm | Proceedings of the 14th Annual International Conference on Mobile Systems, Applications, and Services (acm.org)](https://dl.acm.org/doi/abs/10.1145/2906388.2906407)), ACM MobiSys 2016
+36. **Smartwatches, Magnetometer**, Keunwoo Park *et.al.*, [MagTouch: Robust Finger Identification for a Smartwatch Using a Magnet Ring and a Built-in Magnetometer], ACM CHI 2020
 
-36. **LoRa** Fusang Zhang *et.al.*, [Exploring LoRa for Long-range Through-wall Sensing](https://dl.acm.org/doi/abs/10.1145/3397326), ACM IMWUT 2020
-37. **LoRa** Binbin Xie and Jie Xiong, [Combating interference for long range LoRa sensing](https://dl.acm.org/doi/10.1145/3384419.3430731), ACM Sensys 2020 
-38. **LoRa** Binbin Xie *et.al.*, [Pushing the Limits of Long Range Wireless Sensing with LoRa](https://dl.acm.org/doi/abs/10.1145/3478080), ACM IMWUT 2021
+35. **Smart Phones, IMU** Dongyao Chen *et.al.*, [Invisible Sensing of Vehicle Steering with Smartphones]([Invisible Sensing of Vehicle Steering with Smartphones | Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services (acm.org)](https://dl.acm.org/doi/10.1145/2742647.2742659)), ACM MobiSys 2015
+35. **Smart Phones, Camera+Vibration** Shichao Yue and Dina Katabi, [Liquid testing with your smartphone]([Liquid Testing with Your Smartphone | Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services (acm.org)](https://dl.acm.org/doi/abs/10.1145/3307334.3326078)), ACM MobiSys 2019
+
+37. **Visual Light**, Mark Young *et.al.*, [Viewpoint-Coded Structured Light](https://ieeexplore.ieee.org/abstract/document/4270317), IEEE/CVF CVPR 2007 
+38. **Visual Light**, Xie Bo *et.al.*, [SpinLight: A High Accuracy and Robust Light Positioning System for Indoor Applications](https://dl.acm.org/doi/abs/10.1145/2809695.2809713), ACM SenSys 2015
+39. **Visual Light**, Chi Zhang and Xinyu Zhang, [LiTell: robust indoor localization using unmodified light fixtures](https://dl.acm.org/doi/abs/10.1145/2973750.2973767), ACM MobiCom 2016
+40. **Visual Light**, Tianxing Li *et.al.*, [Practical Human Sensing in the Light](https://dl.acm.org/doi/abs/10.1145/2906388.2906401), ACM MobiSys 2016
+
+39. **LoRa** Fusang Zhang *et.al.*, [Exploring LoRa for Long-range Through-wall Sensing](https://dl.acm.org/doi/abs/10.1145/3397326), ACM IMWUT 2020
+40. **LoRa** Binbin Xie and Jie Xiong, [Combating interference for long range LoRa sensing](https://dl.acm.org/doi/10.1145/3384419.3430731), ACM Sensys 2020 
+41. **LoRa** Binbin Xie *et.al.*, [Pushing the Limits of Long Range Wireless Sensing with LoRa](https://dl.acm.org/doi/abs/10.1145/3478080), ACM IMWUT 2021
+
+42. **Photon**  Zheng-Ping Li *et.al.*,  [Single-photon imaging over 200 km](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-3-344&id=449006), Optica 2021
+43. **Photon** Anant Gupta *et.al.*, [Asynchronous Single-Photon 3D Imaging](https://openaccess.thecvf.com/content_ICCV_2019/html/Gupta_Asynchronous_Single-Photon_3D_Imaging_ICCV_2019_paper.html), ICCV 2019
+44. **Photon** Mariko Isogawa *et.al.*, [Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isogawa_Optical_Non-Line-of-Sight_Physics-Based_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf), CVPR 2020
 
 
 ## 校园生活
