@@ -9,18 +9,30 @@
 
 ## 推荐书籍
 1. 李航 《统计学习方法》 或  周志华 《机器学习》 （研一入学前看完）
+
 3. Ian Goodfellow 等 《深度学习》/ *Deep Learning*  （鼓励研一入学前看完）
-4. 杨峥 等 《位置计算：无线网络定位与可定位性》
+
+5. 杨峥 等 《位置计算：无线网络定位与可定位性》
+
 8. Andrea Goldsmith, 《无线通信》 / *Wireless Communication* / [pdf](https://swedishcr.weebly.com/uploads/1/5/2/2/15223984/wireless_communication_by_andrea_goldsmith.pdf)
-7. James F.Kurose and Keith W.Ross 《计算机网络 自顶向下方法》 / *Computer Networking - A Top-Down Approach*
-8. \*John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
-9. \*Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
-10. \*Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
-11. \*Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
-12. \*Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
-13. \*Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
-14. \*Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-15. \*Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+
+8. James F.Kurose and Keith W.Ross 《计算机网络 自顶向下方法》 / *Computer Networking - A Top-Down Approach*
+
+9. \*John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
+
+10. \*Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
+
+11. \*Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
+
+12. \*Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
+
+13. \*Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
+
+14. \*Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
+
+15. \*Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
+16. \*Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 ## 推荐课程
 1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5) （研一入学前听完）
@@ -35,12 +47,12 @@
 
 ## 推荐UP主
 1. [跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家，讲课和读论文
-2. [同济子豪兄](https://space.bilibili.com/1900783/?spm_id_from=333.999.0.0) / 同济大学研究生，精读AI经典论文
-3. [deep_thoughts](https://space.bilibili.com/373596439/?spm_id_from=333.999.0.0) / 人工智能与应用方向，直播讲解PyTorch源码
-4. [Bubbliiiing](https://space.bilibili.com/472467171/?spm_id_from=333.999.0.0) / 主要讲解深度学习中各种模型平台的搭建
 
-## 掌握知识
-1. 傅里叶变化的
+2. [同济子豪兄](https://space.bilibili.com/1900783/?spm_id_from=333.999.0.0) / 同济大学研究生，精读AI经典论文
+
+3. [deep_thoughts](https://space.bilibili.com/373596439/?spm_id_from=333.999.0.0) / 人工智能与应用方向，直播讲解PyTorch源码
+
+4. [Bubbliiiing](https://space.bilibili.com/472467171/?spm_id_from=333.999.0.0) / 主要讲解深度学习中各种模型平台的搭建
 
 ## 必读论文
 ### 计算机视觉
@@ -115,15 +127,13 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 43. **RFID**, Unsoo Ha *et.al.*, [Food and Liquid Sensing in Practical Environments using RFIDs](https://www.usenix.org/conference/nsdi20/presentation/ha), Usenix NSDI 2020
 44. **RFID**, Jinsong Han *et.al.*, [GenePrint: Generic and Accurate Physical-Layer Identification for UHF RFID Tags](https://users.soe.ucsc.edu/~qian/papers/Geneprint_ToN.pdf), ICNP 2013/ IEEE ToN 2015
 
-29. **LoRa** Fusang Zhang *et.al.*, [Exploring LoRa for Long-range Through-wall Sensing](https://dl.acm.org/doi/abs/10.1145/3397326), ACM IMWUT 2020
-30. **LoRa** Binbin Xie and Jie Xiong, [Combating interference for long range LoRa sensing](https://dl.acm.org/doi/10.1145/3384419.3430731), ACM Sensys 2020 
-31. **LoRa** Binbin Xie *et.al.*, [Pushing the Limits of Long Range Wireless Sensing with LoRa](https://dl.acm.org/doi/abs/10.1145/3478080), ACM IMWUT 2021
+33. **Visual Light** 
+33. **Smart Phones**
+34. **Smartwatches** 
 
-32. **Visual Light** 
-
-33 **Smart Phones**
-
-34 **Smartwatches** 
+36. **LoRa** Fusang Zhang *et.al.*, [Exploring LoRa for Long-range Through-wall Sensing](https://dl.acm.org/doi/abs/10.1145/3397326), ACM IMWUT 2020
+37. **LoRa** Binbin Xie and Jie Xiong, [Combating interference for long range LoRa sensing](https://dl.acm.org/doi/10.1145/3384419.3430731), ACM Sensys 2020 
+38. **LoRa** Binbin Xie *et.al.*, [Pushing the Limits of Long Range Wireless Sensing with LoRa](https://dl.acm.org/doi/abs/10.1145/3478080), ACM IMWUT 2021
 
 
 ## 校园生活
@@ -135,7 +145,6 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 
 
 ## Sponsors and Partners
-
 <img src="./sponsors/nsfc.jpeg" width = "32%" height = "32%" alt="nsfc" /> <img src="./sponsors/csc.png" width = "35%" height = "35%" alt="csc" /> 
 <img src="./sponsors/cpsf.png" width = "50%" height = "50%" alt="cpsf" /> 
 <img src="./sponsors/shaanxikjt.png" width = "50%" height = "50%" alt="shaanxikjt" /> 
