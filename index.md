@@ -8,9 +8,8 @@
 3. 设备/材料/图书-领用记录文档：查看**Slcak, 全体/All**的频道公告，领后及时@MengDie更新
 
 ## 推荐书籍
-1. 李航 《统计学习方法》
-2. 周志华 《机器学习》
-3. Ian Goodfellow 等 《深度学习》/ *Deep Learning*
+1. 李航 《统计学习方法》 或  周志华 《机器学习》 （研一入学前看完）
+3. Ian Goodfellow 等 《深度学习》/ *Deep Learning*  （鼓励研一入学前看完）
 4. 杨峥 等 《位置计算：无线网络定位与可定位性》
 8. Andrea Goldsmith, 《无线通信》 / *Wireless Communication* / [pdf](https://swedishcr.weebly.com/uploads/1/5/2/2/15223984/wireless_communication_by_andrea_goldsmith.pdf)
 7. James F.Kurose and Keith W.Ross 《计算机网络 自顶向下方法》 / *Computer Networking - A Top-Down Approach*
@@ -24,9 +23,9 @@
 15. \*Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 ## 推荐课程
-1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5)
+1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5) （研一入学前听完）
 
-2. Stanford University, Andrew Ng/吴恩达， [CS229: Machine Learning](http://cs229.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1JE411w7Ub/?spm_id_from=333.788.recommend_more_video.0)
+2. Stanford University, Andrew Ng/吴恩达， [CS229: Machine Learning](http://cs229.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1JE411w7Ub/?spm_id_from=333.788.recommend_more_video.0) （研一入学前听完）
 
 3. 台湾大学，李宏毅，**机器学习** / [bilibili视频](https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=169234578912587402&spm_id_from=333.337.0.0)
 
