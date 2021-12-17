@@ -1,4 +1,4 @@
-# Group wiki 
+# group wiki 
 
 ## 群组文档
 1. 每周论文阅读列表：查看**Slack, paper-digest**的频道公告
