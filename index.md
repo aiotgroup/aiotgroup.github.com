@@ -14,14 +14,14 @@
 4. 杨峥 等 《位置计算：无线网络定位与可定位性》
 8. Andrea Goldsmith, 《无线通信》 / *Wireless Communication* / [pdf](https://swedishcr.weebly.com/uploads/1/5/2/2/15223984/wireless_communication_by_andrea_goldsmith.pdf)
 7. James F.Kurose and Keith W.Ross 《计算机网络 自顶向下方法》 / *Computer Networking - A Top-Down Approach*
-8. *John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
-9. *Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
-10. *Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
-11. *Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
-12. *Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
-13. *Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
-14. *Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-15. *Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+8. \*John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
+9. \*Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
+10. \*Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
+11. \*Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
+12. \*Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
+13. \*Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
+14. \*Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+15. \*Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 ## 推荐课程
 1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5)
@@ -32,7 +32,7 @@
 
 4. Andrew Ng/吴恩达，Coursera课程，**Machine Learning** / [bilibili中文字幕视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=9667206633028514293&spm_id_from=333.337.0.0)
 
-5. *UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
+5. \*UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
 
 ## 推荐UP主
 1. [跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家，讲课和读论文
