@@ -14,14 +14,14 @@
 4. 杨峥 等 《位置计算：无线网络定位与可定位性》
 8. Andrea Goldsmith, 《无线通信》 / *Wireless Communication* / [pdf](https://swedishcr.weebly.com/uploads/1/5/2/2/15223984/wireless_communication_by_andrea_goldsmith.pdf)
 7. James F.Kurose and Keith W.Ross 《计算机网络 自顶向下方法》 / *Computer Networking - A Top-Down Approach*
-8. 6. John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
-9. Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
-10. Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
-11. Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
-12. Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
-13. Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
-14. Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-15. Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+8. *John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
+9. *Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
+10. *Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
+11. *Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
+12. *Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
+13. *Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
+14. *Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+15. *Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 ## 推荐课程
 1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5)
@@ -32,7 +32,7 @@
 
 4. Andrew Ng/吴恩达，Coursera课程，**Machine Learning** / [bilibili中文字幕视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=9667206633028514293&spm_id_from=333.337.0.0)
 
-5. UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
+5. *UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
 
 ## 推荐UP主
 1. [跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家，讲课和读论文
@@ -66,9 +66,12 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 16. GANs, **Wasserstein GAN:** Martin Arjovsky *et.al.*, [Wasserstein GAN](https://arxiv.org/abs/1701.07875) / [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
 17. Adversarial examples, Ian Goodfellow *et.al.*, [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 18. Adversarial examples, Alexey Kurakin *et.al.*, [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533v4)
+19. NLP, **Attention:**, Ashish Vaswani *et.al.*, [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 19. Vision Transformer, **ViT:** Alexey Dosovitskiy *et.al.*, [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) / [github](https://github.com/google-research/vision_transformer)
 20. Vision Transformer, **Swin Transformer:** Ze Liu *et.al.*, [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) / [github](https://github.com/microsoft/Swin-Transformer)
-21. Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+21. Vision Transformer, **DETR:** Nicolas Carion *et.al.*, [DE⫶TR: End-to-End Object Detection with Transformers](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) / [github](https://github.com/facebookresearch/detr)
+22. Unsupervised Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+23. Unsupervised, **MoCo:** Kaiming He *et.al.*, [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) / [github](https://github.com/facebookresearch/moco)
 
 ### 无线感知
 1. **Wi-Fi**, Zheng Yang *et.al.*, [From RSSI to CSI: Indoor localization via channel response](https://dl.acm.org/doi/10.1145/2543581.2543592), ACM Computing Surveys 2013
