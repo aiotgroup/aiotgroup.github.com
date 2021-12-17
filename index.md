@@ -12,7 +12,7 @@
 2. 周志华 《机器学习》
 3. Ian Goodfellow 等 《深度学习》/ *Deep Learning*
 4. 杨峥 等 《位置计算：无线网络定位与可定位性》
-8. Andrea Goldsmith, *Wireless Communication* / [pdf](https://swedishcr.weebly.com/uploads/1/5/2/2/15223984/wireless_communication_by_andrea_goldsmith.pdf)
+8. Andrea Goldsmith, 《无线通信》 / *Wireless Communication* / [pdf](https://swedishcr.weebly.com/uploads/1/5/2/2/15223984/wireless_communication_by_andrea_goldsmith.pdf)
 7. James F.Kurose and Keith W.Ross 《计算机网络 自顶向下方法》 / *Computer Networking - A Top-Down Approach*
 8. 6. John Hennessy and David Patterson 《计算机系统结构：量化学习方法》 / *Computer Architecture - A Quantitative Approach* / [pdf](https://qsctech.github.io/zju-icicles/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
 9. Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
