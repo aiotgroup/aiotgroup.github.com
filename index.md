@@ -85,7 +85,23 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 
 27. **FMCW mmWave** Chengkun Jiang *et.al.*, [mmVib: Micrometer-Level Vibration Measurement with mmWave Radar](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf), ACM MobiCOM 2020
 
-28. **RFID**
+35. **RFID**, Jinsong Han *et.al.*, [GenePrint: Generic and Accurate Physical-Layer Identification for UHF RFID Tags](https://users.soe.ucsc.edu/~qian/papers/Geneprint_ToN.pdf), ICNP 2013
+ 
+37. **RFID**, Jue Wang *et.al.*, [RF-Compass: Robot Object Manipulation Using RFIDs]([rfcompass.pdf (illinois.edu)](https://courses.engr.illinois.edu/ece598hh/sp2018/papers/rfcompass.pdf))，ACM Mobicom 2013
+
+29. **RFID**, Lei Yang *et.al.*, [Tagoram: Real-Time Tracking of Mobile RFID Tags to High Precision Using COTS Devices](http://staff.ustc.edu.cn/~xiangyangli/paper/Conf/tagoram-mobicom.pdf), ACM Mobicom 2014
+
+30. **RFID**, Tianci Liu *et.al.*, [Anchor-free backscatter positioning for RFID tags with high accuracy](https://ieeexplore.ieee.org/abstract/document/6847960), IEEE INFOCOM 2014
+
+31. **RFID**, Han Ding *et.al.*, [FEMO: A Platform for Free-weight Exercise Monitoring with RFIDs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.6965&rep=rep1&type=pdf), ACM SenSys 2015
+
+32. **RFID**, Swadhin Pradhan *et.al.*, [RIO: A Pervasive RFID-based Touch Gesture Interface](https://dl.acm.org/doi/10.1145/3117811.3117818) ACM Mobicom 2017
+
+33. **RFID**, Cui Zhao *et.al.*, [RF-Mehndi: A Fingertip Profiled RF Identifier](https://ieeexplore.ieee.org/document/8737419), IEEE INFOCOM 2019
+
+34. **RFID**, Unsoo Ha *et.al.*, [Food and Liquid Sensing in Practical Environments using RFIDs](https://www.usenix.org/conference/nsdi20/presentation/ha), Usenix NSDI 2020
+
+
 
 29. **LoRa** Fusang Zhang *et.al.*, [Exploring LoRa for Long-range Through-wall Sensing](https://dl.acm.org/doi/abs/10.1145/3397326), ACM IMWUT 2020
 30. **LoRa** Binbin Xie and Jie Xiong, [Combating interference for long range LoRa sensing](https://dl.acm.org/doi/10.1145/3384419.3430731), ACM Sensys 2020 
