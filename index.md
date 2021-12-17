@@ -18,9 +18,10 @@
 9. Andrew S. Tanenbaum and Herbert Bos 《现代操作系统》 /  *Modern Operating Systems*
 10. Alfred V.Aho 等 《编译器：原理、技术和工具》 / *Compilers: Principles, Techniques, and Tools* / [pages](https://suif.stanford.edu/dragonbook/)
 11. Steven S.Muchnick 《高级编译器设计与实现》 / *Advanced Compiler Design and Implementation*
-12. Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
-13. Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-14. Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
+12. Peter Shirley 等 《计算机图形学基础》 / *Fundamentals of Computer Graphics*
+13. Richard Sutton and Andrew Barto 《强化学习》 / *Reinforcement Learning: An Introduction* / [pdf](http://incompleteideas.net/book/RLbook2020.pdf)
+14. Christopher Bishop 《模式识别与机器学习》 / *Pattern Recognition and Machine Learning* / [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+15. Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 ## 推荐课程
 1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5)
