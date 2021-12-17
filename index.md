@@ -134,8 +134,8 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 35. **Smartwatches, IMU**, Sheng Shen *et.al.*, [I am a Smartwatch and I can Track my User's Arm](https://dl.acm.org/doi/abs/10.1145/2906388.2906407), ACM MobiSys 2016
 36. **Smartwatches, Magnetometer**, Keunwoo Park *et.al.*, [MagTouch: Robust Finger Identification for a Smartwatch Using a Magnet Ring and a Built-in Magnetometer], ACM CHI 2020
 
-35. **Smart Phones, IMU** Dongyao Chen *et.al.*, [Invisible Sensing of Vehicle Steering with Smartphones]([Invisible Sensing of Vehicle Steering with Smartphones | Proceedings of the 13th Annual International Conference on Mobile Systems, Applications, and Services (acm.org)](https://dl.acm.org/doi/10.1145/2742647.2742659)), ACM MobiSys 2015
-35. **Smart Phones, Camera+Vibration** Shichao Yue and Dina Katabi, [Liquid testing with your smartphone]([Liquid Testing with Your Smartphone | Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services (acm.org)](https://dl.acm.org/doi/abs/10.1145/3307334.3326078)), ACM MobiSys 2019
+35. **Smart Phones, IMU** Dongyao Chen *et.al.*, [Invisible Sensing of Vehicle Steering with Smartphones](https://dl.acm.org/doi/10.1145/2742647.2742659), ACM MobiSys 2015
+35. **Smart Phones, Camera+Vibration** Shichao Yue and Dina Katabi, [Liquid testing with your smartphone](https://dl.acm.org/doi/abs/10.1145/3307334.3326078), ACM MobiSys 2019
 
 37. **Visual Light**, Mark Young *et.al.*, [Viewpoint-Coded Structured Light](https://ieeexplore.ieee.org/abstract/document/4270317), IEEE/CVF CVPR 2007 
 38. **Visual Light**, Xie Bo *et.al.*, [SpinLight: A High Accuracy and Robust Light Positioning System for Indoor Applications](https://dl.acm.org/doi/abs/10.1145/2809695.2809713), ACM SenSys 2015
