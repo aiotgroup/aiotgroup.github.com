@@ -132,7 +132,7 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 
 34. **Smartwatches, IMU**, He Wang *et.al.*, [MoLe: Motion Leaks through Smartwatch Sensors](https://www.sigmobile.org/mobicom/2015/papers/p155-wangA.pdf), ACM Mobicom 2015
 35. **Smartwatches, IMU**, Sheng Shen *et.al.*, [I am a Smartwatch and I can Track my User's Arm](https://dl.acm.org/doi/abs/10.1145/2906388.2906407), ACM MobiSys 2016
-36. **Smartwatches, Magnetometer**, Keunwoo Park *et.al.*, [MagTouch: Robust Finger Identification for a Smartwatch Using a Magnet Ring and a Built-in Magnetometer], ACM CHI 2020
+36. **Smartwatches, Magnetometer**, Keunwoo Park *et.al.*, [MagTouch: Robust Finger Identification for a Smartwatch Using a Magnet Ring and a Built-in Magnetometer](https://dl.acm.org/doi/abs/10.1145/3313831.3376234), ACM CHI 2020
 
 35. **Smart Phones, IMU** Dongyao Chen *et.al.*, [Invisible Sensing of Vehicle Steering with Smartphones](https://dl.acm.org/doi/10.1145/2742647.2742659), ACM MobiSys 2015
 35. **Smart Phones, Camera+Vibration** Shichao Yue and Dina Katabi, [Liquid testing with your smartphone](https://dl.acm.org/doi/abs/10.1145/3307334.3326078), ACM MobiSys 2019
