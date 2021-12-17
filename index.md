@@ -1,8 +1,16 @@
+# Group WiKi 
+
+## 群组文档
+1. 每周论文阅读列表：查看**Slack, paper-digest**的频道公告
+
+2. 计算机科技文写作字典：查看**Slack, paper-digest**的频道公告，添加词句在频道内@MengDie
+
+3. 设备/材料/图书-领用记录文档：查看**Slcak, 全体/All**的频道公告，领用后@MengDie即刻更新
+
 ## 推荐书籍
-1. Ian Goodfellow等，《深度学习》/ *Deep Learning*
+1. Ian Goodfellow 等，《深度学习》/ *Deep Learning*
 2. 李航，《统计学习方法》
-
-
+3. 杨峥 等 《位置计算：无线网络定位与可定位性》
 
 ## 推荐课程
 1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5)
@@ -65,7 +73,8 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 10. **Wi-Fi**, Fei Wang *et.al.*, [Person-in-WiFi: Fine-grained Person Perception using WiFi](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Person-in-WiFi_Fine-Grained_Person_Perception_Using_WiFi_ICCV_2019_paper.pdf), IEEE/CVF ICCV 2019
 11. **Wi-Fi**, Yue Zheng *et.al.*, [Zero-Effort Cross-Domain Gesture Recognition With Wi-Fi](http://tns.thss.tsinghua.edu.cn/widar3.0/data/MobiSys19_Widar3.0_paper.pdf), ACM Mobisys 2018/ TPAMI 2021
 12. **Wi-Fi**, Donny Huang *et.al.*, [Feasibility and Limits of Wi-Fi Imaging](https://homes.cs.washington.edu/~gshyam/Papers/wision.pdf), ACM Sensys 2014
-13.  **Wi-Fi**, Philipp M Holl and Friedemann Reinhard, [Holography of wi-fi radiation](https://pubmed.ncbi.nlm.nih.gov/28524674/), Physical Review Letter 2017
+13. **Wi-Fi**, Philipp M Holl and Friedemann Reinhard, [Holography of wi-fi radiation](https://pubmed.ncbi.nlm.nih.gov/28524674/), Physical Review Letter 2017
+14. **Wi-Fi**, Chenning Li *et.al.*, [Wi-Fi See It All: Generative Adversarial Network-augmented Versatile Wi-Fi Imaging](https://par.nsf.gov/servlets/purl/10301274), ACM Sensys 2020
 
 13. **FMCW Radar / cmWave** Fadel Adib *et.al.*, [3D Tracking via Body Radio Reflections](http://witrack.csail.mit.edu/witrack-paper.pdf), Usenix NSDI 2014 / [project pages](http://witrack.csail.mit.edu/)
 14. **FMCW Radar / cmWave** Fadel Adib *et.al.*, [Multi-Person Localization via RF Body Reflections](http://witrack.csail.mit.edu/witrack2-paper.pdf), Usenix NSDI 2015
@@ -75,6 +84,8 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 18. **FMCW Radar / cmWave** Mingmin Zhao *et.al.*, [Through-Wall Human Pose Estimation Using Radio Signals](http://rfpose.csail.mit.edu/), IEEE/CVF CVPR 2018
 19. **FMCW Radar / cmWave** Mingmin Zhao *et.al.*, [RF-Based 3D Skeletons](http://rfpose3d.csail.mit.edu/), ACM SIGCOMM 2019
 
+27. **FMCW mmWave** Chengkun Jiang *et.al.*, [mmVib: Micrometer-Level Vibration Measurement with mmWave Radar](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf), ACM MobiCOM 2020
+
 20. **Acoustic FMCW** Rajalakshmi Nandakumar *et.al.*, [Contactless Sleep Apnea Detection on Smartphones](https://ucilnica.fri.uni-lj.si/pluginfile.php/8000/mod_page/content/15/NGW15.pdf), ACM Mobisys 2015
 21. **Acoustic FMCW** Rajalakshmi Nandakumar *et.al.*, [Opioid overdose detection using smartphones](https://www.science.org/doi/10.1126/scitranslmed.aau8914), SCIENCE TRANSLATIONAL MEDICINE 2019
 22. **Acoustic FMCW** [Using smart speakers to contactlessly monitor heart rhythms](https://www.nature.com/articles/s42003-021-01824-9#:~:text=%20Using%20smart%20speakers%20to%20contactlessly%20monitor%20heart,has%20focused%20on%20contactless%20monitoring%20of...%20More%20), Nature communications biology 2021
@@ -83,25 +94,14 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 25. **Acoustic FMCW** Sangki Yun *et.al.*, [Strata: Fine-Grained Acoustic-based Device-Free Tracking](https://dl.acm.org/doi/abs/10.1145/3081333.3081356)
 26. **Acoustic** Anran Wang *et.al.*, [Contactless Infant Monitoring using White Noise](https://dl.acm.org/doi/10.1145/3300061.3345453), ACM MobiCom 2019
 
-27. **FMCW mmWave** Chengkun Jiang *et.al.*, [mmVib: Micrometer-Level Vibration Measurement with mmWave Radar](http://tns.thss.tsinghua.edu.cn/sun/publications/mmVib_MobiCom2020.pdf), ACM MobiCOM 2020
-
-35. **RFID**, Jinsong Han *et.al.*, [GenePrint: Generic and Accurate Physical-Layer Identification for UHF RFID Tags](https://users.soe.ucsc.edu/~qian/papers/Geneprint_ToN.pdf), ICNP 2013
- 
-37. **RFID**, Jue Wang *et.al.*, [RF-Compass: Robot Object Manipulation Using RFIDs]([rfcompass.pdf (illinois.edu)](https://courses.engr.illinois.edu/ece598hh/sp2018/papers/rfcompass.pdf))，ACM Mobicom 2013
-
+37. **RFID**, Jue Wang *et.al.*, [RF-Compass: Robot Object Manipulation Using RFIDs](https://courses.engr.illinois.edu/ece598hh/sp2018/papers/rfcompass.pdf)，ACM Mobicom 2013
 29. **RFID**, Lei Yang *et.al.*, [Tagoram: Real-Time Tracking of Mobile RFID Tags to High Precision Using COTS Devices](http://staff.ustc.edu.cn/~xiangyangli/paper/Conf/tagoram-mobicom.pdf), ACM Mobicom 2014
-
 30. **RFID**, Tianci Liu *et.al.*, [Anchor-free backscatter positioning for RFID tags with high accuracy](https://ieeexplore.ieee.org/abstract/document/6847960), IEEE INFOCOM 2014
-
 31. **RFID**, Han Ding *et.al.*, [FEMO: A Platform for Free-weight Exercise Monitoring with RFIDs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.6965&rep=rep1&type=pdf), ACM SenSys 2015
-
 32. **RFID**, Swadhin Pradhan *et.al.*, [RIO: A Pervasive RFID-based Touch Gesture Interface](https://dl.acm.org/doi/10.1145/3117811.3117818) ACM Mobicom 2017
-
 33. **RFID**, Cui Zhao *et.al.*, [RF-Mehndi: A Fingertip Profiled RF Identifier](https://ieeexplore.ieee.org/document/8737419), IEEE INFOCOM 2019
-
 34. **RFID**, Unsoo Ha *et.al.*, [Food and Liquid Sensing in Practical Environments using RFIDs](https://www.usenix.org/conference/nsdi20/presentation/ha), Usenix NSDI 2020
-
-
+35. **RFID**, Jinsong Han *et.al.*, [GenePrint: Generic and Accurate Physical-Layer Identification for UHF RFID Tags](https://users.soe.ucsc.edu/~qian/papers/Geneprint_ToN.pdf), ICNP 2013/ IEEE ToN 2015
 
 29. **LoRa** Fusang Zhang *et.al.*, [Exploring LoRa for Long-range Through-wall Sensing](https://dl.acm.org/doi/abs/10.1145/3397326), ACM IMWUT 2020
 30. **LoRa** Binbin Xie and Jie Xiong, [Combating interference for long range LoRa sensing](https://dl.acm.org/doi/10.1145/3384419.3430731), ACM Sensys 2020 
@@ -114,19 +114,13 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 34 **Smartwatches** 
 
 
-## 群组文档
-1. 每周论文阅读：查看**Slack, paper-digest**的频道公告
-
-2. 科技文写作字典：查看**Slack, paper-digest**的频道公告，添加词句在频道内@MengDie
-
-3. 设备/材料/图书-领用记录文档：查看**Slcak, 全体/All**的频道公告，领用后@MengDie即刻更新
-
 ## 校园生活
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
 2. 校外访问校园网：[校园VPN](http://vpn.xjtu.edu.cn/)
 
 3. 校园卡充值：可在**支付宝-校园一卡通**在线充值,延迟几分钟到账
+
 
 ## Sponsors and Partners
 
@@ -136,3 +130,5 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 <img src="./sponsors/huawei.png" width = "50%" height = "50%" alt="huawei" /> 
 
 ![cmu](fig/cmu.jpg)
+
+🕯️qianmo
