@@ -110,7 +110,7 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 29. Unsupervised, **SimCLR:** Ting Chen *et.al.*, [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j.html)
 30. CV+NLP, **CLIP:** Alec Radford *et.al.*, [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
-### 无线感知
+### 无线感知等
 1. **Wi-Fi**, Zheng Yang *et.al.*, [From RSSI to CSI: Indoor localization via channel response](https://dl.acm.org/doi/10.1145/2543581.2543592), ACM Computing Surveys 2013
 2. **Wi-Fi**, Fadel Adib and Dina Katabi [See through walls with WiFi!](https://dl.acm.org/doi/abs/10.1145/2486001.2486039), ACM SIGCOMM 2013
 3. **Wi-Fi**, Kamran Ali *et.al.*, [Keystroke Recognition Using WiFi Signals](https://sigmobile.org/mobicom/2015/papers/p90-aliA.pdf), ACM Mobicom 2015
@@ -142,8 +142,8 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 23. **Acoustic FMCW** Wenguang Mao *et.al.*, [CAT: high-precision acoustic motion tracking](https://dl.acm.org/doi/abs/10.1145/2973750.2973755), ACM Mobicom 2016
 24. **Acoustic FMCW** Wenguang Mao *et.al.*, [AIM: Acoustic Imaging on a Mobile](https://dl.acm.org/doi/abs/10.1145/3210240.3210325), ACM MobiSys 2018
 25. **Acoustic FMCW** Sangki Yun *et.al.*, [Strata: Fine-Grained Acoustic-based Device-Free Tracking](https://dl.acm.org/doi/abs/10.1145/3081333.3081356)
+27. **Acoustic FMCW** David B. Lindell *et.al.*, [Acoustic Non-Line-Of-Sight Imaging](https://openaccess.thecvf.com/content_CVPR_2019/html/Lindell_Acoustic_Non-Line-Of-Sight_Imaging_CVPR_2019_paper.html), IEEE/CVF CVPR 2019
 26. **Acoustic** Anran Wang *et.al.*, [Contactless Infant Monitoring using White Noise](https://dl.acm.org/doi/10.1145/3300061.3345453), ACM MobiCom 2019
-27. **Acoustic** David B. Lindell *et.al.*, [Acoustic Non-Line-Of-Sight Imaging](https://openaccess.thecvf.com/content_CVPR_2019/html/Lindell_Acoustic_Non-Line-Of-Sight_Imaging_CVPR_2019_paper.html), IEEE/CVF CVPR 2019
 
 37. **RFID**, Jue Wang *et.al.*, [RF-Compass: Robot Object Manipulation Using RFIDs](https://courses.engr.illinois.edu/ece598hh/sp2018/papers/rfcompass.pdf)，ACM Mobicom 2013
 38. **RFID**, Lei Yang *et.al.*, [Tagoram: Real-Time Tracking of Mobile RFID Tags to High Precision Using COTS Devices](http://staff.ustc.edu.cn/~xiangyangli/paper/Conf/tagoram-mobicom.pdf), ACM Mobicom 2014
