@@ -7,6 +7,45 @@
 
 3. 设备/材料/图书-领用记录文档：查看**Slcak, 全体/All**的频道公告，领后及时@MengDie更新
 
+4. GPU服务器账号：向导师说明申请
+
+## 科研入门
+1. **推荐列表：** [清华计算机学科推荐列表](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) / [CCF推荐列表](https://www.ccf.org.cn/Academic_Evaluation/By_category/) / [CS Ranking](http://csrankings.org/) / [Top Computer Science Conferences](https://research.com/conference-rankings/computer-science/2021) CV, AI, computer network, human-computer interaction, robotics, privacy, security等方向，也鼓励阅读architecture, OS, micro等方向论文 
+
+1. **读论文:** 李沐的经验 [P1](https://www.bilibili.com/video/BV1H44y1t75x?from=search&seid=16803836057252024780&spm_id_from=333.337.0.0) / [P2: 以AlexNet为例](https://www.bilibili.com/video/BV1ih411J7Kz/?spm_id_from=333.788.recommend_more_video.-1) / [P3: 精读AlexNet](https://www.bilibili.com/video/BV1hq4y157t1/?spm_id_from=333.788.recommend_more_video.-1)
+
+2. **读论文:** 吴恩达的经验 / [Video, 2m:38s开始](https://www.bilibili.com/video/BV1A64y1v77W/?spm_id_from=333.788.recommend_more_video.0)
+
+3. **如何选择研究方向：**
+
+4. **如何写论文：**
+
+5. [未来青年科学家 陈立杰 的清华特奖答辩](https://www.bilibili.com/video/BV1GK41137KH?from=search&seid=17597393094536655935&spm_id_from=333.337.0.0)
+
+6. [李沐：博士这五年](https://zhuanlan.zhihu.com/p/25099638)
+
+7. [李飞飞高徒 Andrej Karpathy：计算机科学博士的生存指南](https://toutiao.io/posts/0gm4yy/preview)
+
+## 推荐课程
+1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5) （研一入学前听完）
+
+2. Stanford University, Andrew Ng/吴恩达， [CS229: Machine Learning](http://cs229.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1JE411w7Ub/?spm_id_from=333.788.recommend_more_video.0) （研一入学前听完）
+
+3. 台湾大学，李宏毅，**机器学习** / [bilibili视频](https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=169234578912587402&spm_id_from=333.337.0.0)
+
+4. Andrew Ng/吴恩达，Coursera课程，**Machine Learning** / [bilibili中文字幕视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=9667206633028514293&spm_id_from=333.337.0.0)
+
+5. \*UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
+
+## 推荐媒体
+1. b站up主：[跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家，讲课和读论文
+
+2. b站up主：[bryanyzhu](https://github.com/aiotgroup/aiotgroup.github.io/edit/main/index.md) / 读论文，读得很清楚
+
+3. b站up主：[同济子豪兄](https://space.bilibili.com/1900783/?spm_id_from=333.999.0.0) / 同济大学研究生，精读AI经典论文
+
+4. 微信公众号：新智元、机器之心、量子位、我爱计算机视觉、老顾谈几何
+
 ## 推荐书籍
 1. 李航 《统计学习方法》 或  周志华 《机器学习》 （研一入学前看完）
 
@@ -34,25 +73,6 @@
 
 16. \*Thomas H. Cormen 等 《算法导论》 / *Introduction to Algorithms* / [pdf](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
-## 推荐课程
-1. Stanford University, Fei-Fei Li/李飞飞, [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1Gb4y1X7Q5) （研一入学前听完）
-
-2. Stanford University, Andrew Ng/吴恩达， [CS229: Machine Learning](http://cs229.stanford.edu/) / [bilibili中文字幕视频](https://www.bilibili.com/video/BV1JE411w7Ub/?spm_id_from=333.788.recommend_more_video.0) （研一入学前听完）
-
-3. 台湾大学，李宏毅，**机器学习** / [bilibili视频](https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=169234578912587402&spm_id_from=333.337.0.0)
-
-4. Andrew Ng/吴恩达，Coursera课程，**Machine Learning** / [bilibili中文字幕视频](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=9667206633028514293&spm_id_from=333.337.0.0)
-
-5. \*UCL, David Silver, [Reinforcement Learning](https://www.davidsilver.uk/teaching/) / [youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
-
-## 推荐UP主
-1. [跟李沐学AI](https://space.bilibili.com/1567748478?from=search&seid=5943182010192296025&spm_id_from=333.337.0.0) / 亚马逊资深首席科学家，讲课和读论文
-
-2. [同济子豪兄](https://space.bilibili.com/1900783/?spm_id_from=333.999.0.0) / 同济大学研究生，精读AI经典论文
-
-3. [deep_thoughts](https://space.bilibili.com/373596439/?spm_id_from=333.999.0.0) / 人工智能与应用方向，直播讲解PyTorch源码
-
-4. [Bubbliiiing](https://space.bilibili.com/472467171/?spm_id_from=333.999.0.0) / 主要讲解深度学习中各种模型平台的搭建
 
 ## 必读论文
 ### 计算机视觉
@@ -69,22 +89,26 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 8. Object Detection, **SSD:** Wei Liu *et.al.*, [Ssd: Single shot multibox detector](https://www.cs.unc.edu/~wliu/papers/ssd.pdf)  / [pytorch](https://github.com/yatengLG/SSD-Pytorch)
 9. Object Detection, **YOLO:** Joseph Redmon *et.al.*, [You only look once: Unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html) / [pytorch yolov5](https://github.com/ultralytics/yolov5)
 10. Object Detection, **CenterNet:** Xingyi Zhou *et.al.*, [Objects as points](https://arxiv.org/abs/1904.07850) / [github](https://github.com/xingyizhou/CenterNet)
-11. Pose Estimation, **Openpose:** Zhe Cao *et.al.*, [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://ieeexplore.ieee.org/document/8765346) / [project pages](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/) / [github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-12. Pose Estimation, **AlphaPose:** Hao-Shu Fang *et.al.*, [Regional Multi-person Pose Estimation](https://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html) / [github](https://github.com/MVIG-SJTU/AlphaPose)
-13. GANs, **GAN:** Ian Goodfellow *et.al.*, [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) 
-14. GANs, **Pixel2Pixel:** Phillip Isola *et.al.*, [Unpaired Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) / [project pages](https://phillipi.github.io/pix2pix/)
-15. GANs, **CycleGan:** Junyan Zhu *et.al.*, [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/) / [project pages](https://junyanz.github.io/CycleGAN/)
-16. GANs, **Wasserstein GAN:** Martin Arjovsky *et.al.*, [Wasserstein GAN](https://arxiv.org/abs/1701.07875) / [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
-17. GANs, **SinGAN**, Tamar Rott Shaham *et.al.*, [SinGAN：Learning a Generative Model from a Single Natural Image](https://openaccess.thecvf.com/content_ICCV_2019/html/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.html)
-18. GANs, **StarGAN**, Yunjey Choi *et.al.*, [Stargan: Unified generative adversarial networks for multi-domain image-to-image translation](https://openaccess.thecvf.com/content_cvpr_2018/html/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.html)
-19. Adversarial examples, Ian Goodfellow *et.al.*, [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
-20. Adversarial examples, Alexey Kurakin *et.al.*, [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533v4)
-21. NLP, **Attention:**, Ashish Vaswani *et.al.*, [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-22. Vision Transformer, **ViT:** Alexey Dosovitskiy *et.al.*, [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) / [github](https://github.com/google-research/vision_transformer)
-23. Vision Transformer, **Swin Transformer:** Ze Liu *et.al.*, [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) / [github](https://github.com/microsoft/Swin-Transformer)
-24. Vision Transformer, **DETR:** Nicolas Carion *et.al.*, [DE⫶TR: End-to-End Object Detection with Transformers](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) / [github](https://github.com/facebookresearch/detr)
-25. Unsupervised Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
-26. Unsupervised, **MoCo:** Kaiming He *et.al.*, [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) / [github](https://github.com/facebookresearch/moco)
+11. Object Detection, **FCOS:** Zhi Tian *et.al.*, [Fcos: Fully convolutional one-stage object detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tian_FCOS_Fully_Convolutional_One-Stage_Object_Detection_ICCV_2019_paper.pdf)
+12. Pose Estimation, **Openpose:** Zhe Cao *et.al.*, [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://ieeexplore.ieee.org/document/8765346) / [project pages](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/) / [github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+13. Pose Estimation, **AlphaPose:** Hao-Shu Fang *et.al.*, [Regional Multi-person Pose Estimation](https://openaccess.thecvf.com/content_iccv_2017/html/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.html) / [github](https://github.com/MVIG-SJTU/AlphaPose)
+14. GANs, **GAN:** Ian Goodfellow *et.al.*, [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) 
+15. GANs, **Pixel2Pixel:** Phillip Isola *et.al.*, [Unpaired Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) / [project pages](https://phillipi.github.io/pix2pix/)
+16. GANs, **CycleGan:** Junyan Zhu *et.al.*, [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/) / [project pages](https://junyanz.github.io/CycleGAN/)
+17. GANs, **Wasserstein GAN:** Martin Arjovsky *et.al.*, [Wasserstein GAN](https://arxiv.org/abs/1701.07875) / [code](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
+18. GANs, **SinGAN**, Tamar Rott Shaham *et.al.*, [SinGAN：Learning a Generative Model from a Single Natural Image](https://openaccess.thecvf.com/content_ICCV_2019/html/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.html)
+19. GANs, **StarGAN**, Yunjey Choi *et.al.*, [Stargan: Unified generative adversarial networks for multi-domain image-to-image translation](https://openaccess.thecvf.com/content_cvpr_2018/html/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.html)
+20. Adversarial examples, Ian Goodfellow *et.al.*, [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+21. Adversarial examples, Alexey Kurakin *et.al.*, [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533v4)
+22. NLP, **Attention:**, Ashish Vaswani *et.al.*, [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+23. NLP, **BERT:** Jacob Devlin *et.al.*, [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+24. Vision Transformer, **ViT:** Alexey Dosovitskiy *et.al.*, [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) / [github](https://github.com/google-research/vision_transformer)
+25. Vision Transformer, **Swin Transformer:** Ze Liu *et.al.*, [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) / [github](https://github.com/microsoft/Swin-Transformer)
+26. Vision Transformer, **DETR:** Nicolas Carion *et.al.*, [DE⫶TR: End-to-End Object Detection with Transformers](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) / [github](https://github.com/facebookresearch/detr)
+27. Unsupervised Vision Transformer, **MAE:** Kaiming He *et.al.*, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+28. Unsupervised, **MoCo:** Kaiming He *et.al.*, [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) / [github](https://github.com/facebookresearch/moco)
+29. Unsupervised, **SimCLR:** Ting Chen *et.al.*, [A Simple Framework for Contrastive Learning of Visual Representations](http://proceedings.mlr.press/v119/chen20j.html)
+30. CV+NLP, **CLIP:** Alec Radford *et.al.*, [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
 ### 无线感知
 1. **Wi-Fi**, Zheng Yang *et.al.*, [From RSSI to CSI: Indoor localization via channel response](https://dl.acm.org/doi/10.1145/2543581.2543592), ACM Computing Surveys 2013
@@ -150,14 +174,12 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 43. **Photon** Anant Gupta *et.al.*, [Asynchronous Single-Photon 3D Imaging](https://openaccess.thecvf.com/content_ICCV_2019/html/Gupta_Asynchronous_Single-Photon_3D_Imaging_ICCV_2019_paper.html), ICCV 2019
 44. **Photon** Mariko Isogawa *et.al.*, [Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isogawa_Optical_Non-Line-of-Sight_Physics-Based_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf), CVPR 2020
 
-
 ## 校园生活
 1. 正版软件下载：[网络信息中心](http://nic.xjtu.edu.cn/)
 
 2. 校外访问校园网：[校园VPN](http://vpn.xjtu.edu.cn/)
 
 3. 校园卡充值：可在**支付宝-校园一卡通**在线充值,延迟几分钟到账
-
 
 ## Sponsors and Partners
 <img src="./sponsors/nsfc.jpeg" width = "32%" height = "32%" alt="nsfc" /> <img src="./sponsors/csc.png" width = "35%" height = "35%" alt="csc" /> 
@@ -166,5 +188,4 @@ Image Segmentation](https://arxiv.org/abs/1505.04597) / [pytorch](https://amaaro
 <img src="./sponsors/huawei.png" width = "50%" height = "50%" alt="huawei" /> 
 
 ![cmu](fig/cmu.jpg)
-
 🕯️qianmo
