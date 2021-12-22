@@ -20,6 +20,8 @@
 
 4. **如何写论文：**
 
+5. [CMU教授 兰迪·波许教授的最后一课 Randy Pausch's Last Lecture 【2007】](https://www.bilibili.com/video/BV1ks411a7Xq/?spm_id_from=333.788.recommend_more_video.-1)
+
 5. [未来青年科学家 陈立杰 的清华特奖答辩](https://www.bilibili.com/video/BV1GK41137KH?from=search&seid=17597393094536655935&spm_id_from=333.337.0.0)
 
 6. [李沐：博士这五年](https://zhuanlan.zhihu.com/p/25099638)
