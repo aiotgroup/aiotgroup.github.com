@@ -44,6 +44,8 @@
 
 2. b站up主：[bryanyzhu](https://github.com/aiotgroup/aiotgroup.github.io/edit/main/index.md) / 读论文，读得很清楚
 
+3. b站up主：[同济子豪兄](https://space.bilibili.com/1900783?from=search&seid=13203693944950771577&spm_id_from=333.337.0.0) / bilibili 知名科技UP主，精读计算机视觉论文
+
 3. b站号：[ReadPaper论文阅读](https://space.bilibili.com/1706874133?from=search&seid=12186683493043448474&spm_id_from=333.337.0.0) / ReadPaper.com是沈向洋老师创办的IDEA研究院研发的论文阅读产品，关注我们，快乐读论文。 
 
 4. 微信公众号：新智元、机器之心、量子位、我爱计算机视觉、老顾谈几何
